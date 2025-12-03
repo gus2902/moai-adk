@@ -1,6 +1,6 @@
 # TAG Coverage Matrix
 
-Generated: 2025-12-02 09:23:53
+Generated: 2025-12-03 09:20:35
 
 | SPEC | CODE | TEST | DOC | Completion |
 |------|------|------|-----|------------|
