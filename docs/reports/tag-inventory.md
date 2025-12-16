@@ -1,6 +1,6 @@
 # TAG Inventory
 
-Generated: 2025-12-15 09:29:24
+Generated: 2025-12-16 09:22:19
 Total TAGs: 5443
 
 ## By Domain
